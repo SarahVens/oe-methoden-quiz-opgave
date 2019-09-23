@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prb-03-oef-01-start.wpf", "prb-03-oef-01-start.wpf\prb-03-oef-01-start.wpf.csproj", "{D722AF3A-7097-4D03-B58E-8607DB01D78F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D722AF3A-7097-4D03-B58E-8607DB01D78F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D722AF3A-7097-4D03-B58E-8607DB01D78F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D722AF3A-7097-4D03-B58E-8607DB01D78F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D722AF3A-7097-4D03-B58E-8607DB01D78F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA9350F6-B23C-4368-B09E-1C7988A10CDC}
+	EndGlobalSection
+EndGlobal
